@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application7</string>
+    <string name="hello_blank0_fragment">请分别点击这三个按钮，实现你想要的结果</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank1_fragment">春眠不觉晓，\n处处闻啼鸟。\n夜来风雨声，\n花落知多少。</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank2_fragment">窗前名夜光，\n疑似地上霜。\n举头望明月，\n低头思故乡。</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank3_fragment">
+        江西应用科技学院是教育部批准设置的全日制应用型本科高校。
+        始建于1984年，2005年经江西省人民政府批准原江西新亚职业技术学院更名为江西城市职业学院，
+        2014年5月，经教育部批准升格为本科建制的江西应用科技学院。
+    </string>
+
+</resources>
